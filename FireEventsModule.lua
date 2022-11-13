@@ -1,3 +1,5 @@
+--local FireEventsModule = loadstring(game:HttpGet("https://raw.githubusercontent.com/MrRoguen/RobloxDump/main/FireEventsModule.lua"))()
+
 local FireEvents = {}
 
 FireEvents.FireClickDetector = function(ClickDetector, Distance, Repeat)
